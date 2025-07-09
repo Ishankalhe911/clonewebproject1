@@ -2,4 +2,7 @@
 .container h1{
     font-size: 31px;
 }
+#header{
+    position: relative !important;
+}
 }
